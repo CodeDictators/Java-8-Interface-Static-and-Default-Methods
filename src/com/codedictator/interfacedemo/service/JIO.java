@@ -1,4 +1,4 @@
-package com.blz.interfacedemo.service;
+package com.codedictator.interfacedemo.service;
 
 public interface JIO {
 	public abstract void makeCall(String provider);

@@ -1,7 +1,7 @@
-package com.blz.interfacedemo.service.provider;
+package com.codedictator.interfacedemo.service.provider;
 
-import com.blz.interfacedemo.service.Idea;
-import com.blz.interfacedemo.service.JIO;
+import com.codedictator.interfacedemo.service.Idea;
+import com.codedictator.interfacedemo.service.JIO;
 
 public class Calling extends ClassA implements Idea, JIO {
 

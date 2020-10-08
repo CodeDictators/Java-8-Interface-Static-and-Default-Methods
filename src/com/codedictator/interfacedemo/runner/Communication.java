@@ -1,8 +1,8 @@
-package com.blz.interfacedemo.runner;
+package com.codedictator.interfacedemo.runner;
 
-import com.blz.interfacedemo.service.Idea;
-import com.blz.interfacedemo.service.JIO;
-import com.blz.interfacedemo.service.provider.Calling;
+import com.codedictator.interfacedemo.service.Idea;
+import com.codedictator.interfacedemo.service.JIO;
+import com.codedictator.interfacedemo.service.provider.Calling;
 
 public class Communication {
 	public static final void main(String[] args) {
